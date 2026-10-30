@@ -1,0 +1,19 @@
+# Publish only the project README and notebooks (including selected media).
+/*
+!/.gitignore
+!/README.md
+!/notebooks/
+
+# Credentials and generated files inside notebooks.
+**/.env
+**/.env.*
+**/.modal.toml
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/*.py[cod]
+**/*.pt
+**/*.onnx
+**/*.engine
+**/*.npz
+**/.DS_Store
+**/Thumbs.db
