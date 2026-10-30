@@ -7,8 +7,6 @@ Phân tích video bóng đá bằng **YOLOv8, ByteTrack và SigLIP**, kết hợ
 [![Football AI demo](notebooks/assets/demo-preview.gif)](notebooks/assets/football-demo.mp4)
 
 
-https://github.com/user-attachments/assets/a114ea37-6827-4e10-a90d-69e50c283637
-
 
 [Xem video](notebooks/assets/football-demo.mp4) · **Full HD**
 
